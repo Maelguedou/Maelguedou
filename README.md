@@ -54,4 +54,4 @@ I'm continuously improving my backend skills while working on practical projects
 
 📫 **Reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ma%C3%ABl-abdias/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121214?style=for-the-badge&logo=react&logoColor=3dd899)]([https://TON_PORTFOLIO.com](https://portfolio-724evy53q-maels-projects-4d80cd29.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-121214?style=for-the-badge&logo=react&logoColor=3dd899)](https://portfolio-724evy53q-maels-projects-4d80cd29.vercel.app/)
